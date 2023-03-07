@@ -2,7 +2,6 @@
 
 # Desafio Final
 
-### DATA DE ENTREGA: 08/06/2022
 
 ### 🎯 Visão do Projeto
 
@@ -12,11 +11,6 @@ O processo de licenciamento dos ambulantes pode ser simplificado através do apl
 
 Através desse projeto será possível realizar todo o processo desde a solicitação até o credenciamento. Trazendo mais conforto e segurança para os aplicantes que muitas vezes precisam enfrentar filas imensas.
 
-### 🏗  O que fazer?
-
-Você deve fazer um fork deste repositório na conta do Lider do projeto, criar o código e ao finalizar, realizar o **Pull Request** com o nome da equipe e membros.
-
-Lembre-se que todos os membros devem trabalhar no repositório do seu lider. Usar o sistema branch é fundamental neste processo.
 
 ### ✅ Escopo de projeto
 
@@ -38,10 +32,8 @@ Deve ser criado um aplicativo em Flutter com as seguintes especificações:
 - Exibir Termo de participação em aplicação externa
 - Salvar detalhamento de credenciamento em PDF
 
-**Sinta-se a vontade para:**
-- Escolher a arquitetura e padrões utilizados
-- Usar ou não usar bibliotecas
-- Escolher a ferramenta/padrão para gerenciamento de estado (Bloc/Cubit, Change Notifier, Mobx)
+**Arquitetura e padrões utilizados:**
+Bloc/Cubit and Mobx 
 
 
 ### 🕵 Items a serem avaliados
@@ -50,24 +42,13 @@ Pense no desafio como uma oportunidade de mostrar todo o seu conhecimento.
 - Tratamento de validações e erros
 - Estrutura e organização do projeto
 - Integração com as APIs
-- Manutebilidade e testabilidade do seu código
+- Manutenção e testabilidade do seu código
 - Estruturação de layout e fluxo de aplicação
 - Utilização de código limpo e princípios SOLID
 - Boas práticas do Dart e do Flutter
 - Boas práticas de UI alinhadas com as plataforma nativas
 - Gerenciamento de estado dos Widgets
 - Injeção de Dependências
-
-
-### 🎁 Extras
-Estes itens não são obrigatórios, porém desejáveis.
-
-- Realização de testes unitários
-- Modularização do projeto
-- Customização do aplicativo utilizando Tema Global
-- Preparação para disponibilizar em pelo menos uma Loja de Aplicativos
-- Cache de imagens
-- Adicionar animações (use a criatividade)
 
 ### 🚨 Informações Importantes
 
@@ -78,3 +59,11 @@ Estes itens não são obrigatórios, porém desejáveis.
 - Documentação da API disponível no Swagger (https://bit.ly/3yRGEVR)
 - Link Termo de Participação PDF (http://www.africau.edu/images/default/sample.pdf)
 - Número do Whatsapp vocês que escolhe!!!
+
+### Equipe - Oxe Flutter:
+- Priscila Passos
+- Maíra Hungria
+- Karolina 
+- Luana Cajaíba
+
+
