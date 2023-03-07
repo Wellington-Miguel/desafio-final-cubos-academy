@@ -24,7 +24,7 @@ Deve ser criado um aplicativo em Flutter com as seguintes especificações:
 - Detalhamento de Eventos
 - Credenciamento de usuário em eventos
 - Listagem de credenciamentos (Histórico)
-- Detalhamento de credencimentos (Histórico)
+- Detalhamento de credenciamentos (Histórico)
 
 **Extra**
 - Alterar imagem de perfil
@@ -36,8 +36,8 @@ Deve ser criado um aplicativo em Flutter com as seguintes especificações:
 Bloc/Cubit and Mobx 
 
 
-### 🕵 Items a serem avaliados
-Pense no desafio como uma oportunidade de mostrar todo o seu conhecimento. 
+### 🕵 Conhecimentos abrangidos
+O desafio é uma oportunidade de mostrar conhecimento nos seguintes aspectos:
 
 - Tratamento de validações e erros
 - Estrutura e organização do projeto
